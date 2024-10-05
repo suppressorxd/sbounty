@@ -13,10 +13,7 @@
   "nodes": [
     {
       "name": "Node",
-      "mesh": 0,
-      "extras": {
-        "description": "<script>alert('XSS');</script>"
-      }
+      "mesh": 0
     }
   ],
   "meshes": [
