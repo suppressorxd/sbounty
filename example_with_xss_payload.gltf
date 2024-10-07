@@ -1,34 +1,11 @@
 {
   "asset": {
-    "version": "2.0",
-    "generator": "Example Generator"
+    "generator": "<img src=x onerror=alert(1)>",
+    "version": "2.0"
   },
   "scenes": [
     {
-      "nodes": [
-        0
-      ]
-    }
-  ],
-  "nodes": [
-    {
-      "name": "Node",
-      "mesh": 0
-    }
-  ],
-  "meshes": [
-    {
-      "primitives": [
-        {
-          "attributes": {
-            "POSITION": [
-              0,
-              0,
-              0
-            ]
-          }
-        }
-      ]
+      "name": "Default Scene"
     }
   ]
 }
